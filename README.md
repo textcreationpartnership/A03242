@@ -37,20 +37,38 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Porta pietatis, or, The port or harbour of piety Exprest in sundry triumphes, pageants, and showes, 
+
+1. To the Right Honorable Sr.Maurice
+Abbot, Knight, the Lord Maior of this
+renowned Metropolis, London.
+
 #####Body#####
 
-1. Proteus his Speech.
+1. Londini Porta
+Pietatis:
+Londons Gate to Piety.
 
-1. The Shepheards Speech.
+    _ The first Show by Water.
 
-1. The Indians Speech.
+      * Proteus his Speech.
 
-1. The Speech from the Shippe.
+    _ The first Show by Land.
 
-1. Piety the Speaker.
+      * The Shepheards Speech.
 
-1. The Speech at Night.
+    _ The second Show by Land.
+
+      * The Indians Speech.
+
+    _ The third Show by Land.
+
+      * The Speech from the Shippe.
+
+    _ The fourth Show by Land.
+
+      * Piety the Speaker.
+
+      * The Speech at Night.
 
 **Types of content**
 
